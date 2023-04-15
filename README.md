@@ -26,4 +26,4 @@ while(alive){
 ```
 <h5 align="left">Connect with me:</h5>
 <a href="https://instagram.com/vnoth._" target="blank"><img align="center" src="/icon/instagram.svg" alt="vnoth._" height="30" width="35" /></a>
-<a href = "vinothkumar9202@gmail.com"><img align="center" src="/icon/Gmail_Logo.svg" alt="vnoth._" height="30" width="35" /></a>
+<a href = "mailto: vinothkumar9202@gmail.com"><img align="center" src="/icon/Gmail_Logo.svg" alt="vnoth._" height="30" width="35" /></a>
