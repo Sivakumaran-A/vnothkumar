@@ -18,12 +18,13 @@ while(alive){
     code();
     repeat();
   }
-
+  ```
+```
 👨‍💻 Skills:
 ==========
-C
+🇨
+```
+<h5 align="left">Connect with me:</h5>
 
-🌐 Connect with me:
-===================
-1.Instagram 📷 => vnoth._
-2.Mail 📫      => vinothkumar9202@gmail.com
+<a href="https://instagram.com/vnoth._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vnoth._" height="30" width="40" /></a>
+
